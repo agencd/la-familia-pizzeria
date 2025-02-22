@@ -1,4 +1,1 @@
-soda
-beer
-wine
 cofee
